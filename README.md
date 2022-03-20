@@ -15,4 +15,4 @@ Hyperparameter Tuning
 
 Explainable AI
 
-Deployment a Model
+Deployment a Model ( Streamlit App deployment on Heroku)
