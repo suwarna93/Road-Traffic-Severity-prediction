@@ -16,3 +16,9 @@ Hyperparameter Tuning
 Explainable AI
 
 Deployment a Model ( Streamlit App deployment on Heroku)
+
+### AIM :-
+ 
+ Traffic accident prediction is a crucial and challenging issue in the domain of intelligent traffic safety management system; 
+ 
+ It is of great significance for analyzing the future development trend of traffic accidents and implementing proactive prevention measures under existing road traffic conditions.
