@@ -22,3 +22,13 @@ Deployment a Model ( Streamlit App deployment on Heroku) : https://road-traffic-
  Traffic accident prediction is a crucial and challenging issue in the domain of intelligent traffic safety management system; 
  
  It is of great significance for analyzing the future development trend of traffic accidents and implementing proactive prevention measures under existing road traffic conditions.
+ 
+### Problem -Statement:-
+
+This is a multi-class classification problem where we are predicting the severity of accident :
+
+1) Slight Injury
+2) Fatal Injury
+3) Serious Injury
+
+based on the other 31 features.
