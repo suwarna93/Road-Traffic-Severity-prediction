@@ -15,7 +15,7 @@ Hyperparameter Tuning
 
 Explainable AI
 
-Deployment a Model ( Streamlit App deployment on Heroku)
+Deployment a Model ( Streamlit App deployment on Heroku) : https://road-traffic-severity-predict.herokuapp.com
 
 ### AIM :-
  
